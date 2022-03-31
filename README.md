@@ -1,4 +1,4 @@
 # RPA
-Calculaltion of the screened potential using the Random Phase Approximation
+Random Phase Approximation for tight binding models in k-space.
 
 Now the q path goes through \Gamma.
